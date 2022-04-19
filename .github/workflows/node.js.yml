@@ -35,4 +35,5 @@ jobs:
         branch: build
         repository: .
         push_options: '--force'
-        skip_dirty_check: true    
+        skip_dirty_check: true
+        create_branch: true
