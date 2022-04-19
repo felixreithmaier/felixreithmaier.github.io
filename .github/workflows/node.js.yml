@@ -34,6 +34,4 @@ jobs:
         commit_message: upload Build
         branch: build
         repository: .
-        push_options: '--force'
-        skip_dirty_check: true
         create_branch: true
